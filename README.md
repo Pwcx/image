@@ -1,1 +1,1 @@
-# imgae
+# image
